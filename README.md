@@ -1,3 +1,28 @@
+## 📚 Task 1: Manual Test Cases (Excel)
+
+Manual test cases cover functional, UI, negative, and boundary scenarios for the login functionality of the Janitri Dashboard.
+
+📄 **Download Test Cases**:  
+[Login_Test_Cases.xlsx](https://github.com/Girish-NOV/JanitriLoginAutomation/blob/main/Login_Test_Cases.xlsx?raw=true)
+
+| Test Case ID | Scenario                              | Test Type       |
+|--------------|----------------------------------------|------------------|
+| TC01         | Login with valid credentials           | Functional - Positive |
+| TC02         | Login with blank fields                | Functional - Negative |
+| TC03         | Login with only user ID                | Functional - Negative |
+| TC04         | Login with only password               | Functional - Negative |
+| TC05         | Login with invalid credentials         | Functional - Negative |
+| TC06         | Check presence of UI elements          | UI              |
+| TC07         | Check login button disabled initially  | UI              |
+| TC08         | Check eye icon functionality           | UI              |
+| TC09         | Password should be masked initially    | UI              |
+| TC10         | User ID input max length               | Boundary        |
+| TC11         | Password input max length              | Boundary        |
+| TC12         | User ID with special characters        | Boundary        |
+| TC13         | Password with only spaces              | Boundary        |
+
+---
+
 # ✅ Task 2: Janitri Dashboard Login Automation (QA Internship)
 
 This project automates the login page UI testing of the **Janitri Dashboard** using Java, Selenium WebDriver, Maven, TestNG, and the Page Object Model (POM) design pattern.
