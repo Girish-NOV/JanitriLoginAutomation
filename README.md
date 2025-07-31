@@ -1,7 +1,8 @@
 ## 📚 Task 1: Manual Test Cases (Excel)
 
 Manual test cases cover functional, UI, negative, and boundary scenarios for the login functionality of the Janitri Dashboard.
-
+## Output - MANUAL TEST CASES
+https://github.com/Girish-NOV/JanitriLoginAutomation/blob/main/Girish_Janitri_Login_TestCases.xlsx
  
 | Test Case ID | Scenario                              | Test Type       |
 |--------------|----------------------------------------|------------------|
