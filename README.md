@@ -65,5 +65,21 @@ mvn clean install
 
 ▶️ Run Tests with TestNG
 mvn test
+### 🖼️ Test Execution Screenshots
 
+#### ✅ Screenshot 1 – Invalid Login Error Message
+
+[![Screenshot 1](https://github.com/Girish-NOV/JanitriLoginAutomation/blob/main/Output%20Screenshot%201.png?raw=true)](https://github.com/Girish-NOV/JanitriLoginAutomation/blob/main/Output%20Screenshot%201.png?raw=true)
+
+---
+
+#### ✅ Screenshot 2 – Password Visibility Toggle
+
+[![Screenshot 2](https://github.com/Girish-NOV/JanitriLoginAutomation/blob/main/Output%20Screenshot%202.png?raw=true)](https://github.com/Girish-NOV/JanitriLoginAutomation/blob/main/Output%20Screenshot%202.png?raw=true)
+
+---
+
+Vadamala Girish
+📧 girishbhanu8@gmail.com
+📍 Tirupati, India
 
