@@ -57,14 +57,13 @@ src/
 
 ### 📦 Clone the Repository
 
-```bash
 git clone https://github.com/Girish-NOV/JanitriLoginAutomation.git
 cd JanitriLoginAutomation
+
 📥 Install Dependencies
 mvn clean install
+
 ▶️ Run Tests with TestNG
 mvn test
-<img width="1652" height="1049" alt="Output Screenshot 3" src="https://github.com/user-attachments/assets/ea1edb33-6de6-4ea9-aeb1-7f8778935c6c" />
-<img width="1919" height="1079" alt="Output Screenshot 2" src="https://github.com/user-attachments/assets/f83fb883-d2f1-4787-9638-7cd96fd37cec" />
-<img width="1652" height="1049" alt="Output Screenshot 1" src="https://github.com/user-attachments/assets/cde8ac41-ab7a-4b36-80f0-81a88fe1a878" />
+
 
