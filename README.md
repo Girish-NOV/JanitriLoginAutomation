@@ -3,7 +3,7 @@
 Manual test cases cover functional, UI, negative, and boundary scenarios for the login functionality of the Janitri Dashboard.
 
 📄 **Download Test Cases**:  
-[Login_Test_Cases.xlsx](https://github.com/Girish-NOV/JanitriLoginAutomation/blob/main/Login_Test_Cases.xlsx?raw=true)
+[[Login_Test_Cases.xlsx](https://github.com/Girish-NOV/JanitriLoginAutomation/blob/main/Login_Test_Cases.xlsx?raw=true)](https://github.com/Girish-NOV/JanitriLoginAutomation/blob/main/Girish_Janitri_Login_TestCases.xlsx)
 
 | Test Case ID | Scenario                              | Test Type       |
 |--------------|----------------------------------------|------------------|
