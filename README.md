@@ -3,7 +3,8 @@
 Manual test cases cover functional, UI, negative, and boundary scenarios for the login functionality of the Janitri Dashboard.
 ## Output - MANUAL TEST CASES
 https://github.com/Girish-NOV/JanitriLoginAutomation/blob/main/Girish_Janitri_Login_TestCases.xlsx
- 
+--Click the above link
+-- After Clicking the Link View Raw to see the results of Task 1
 | Test Case ID | Scenario                              | Test Type       |
 |--------------|----------------------------------------|------------------|
 | TC01         | Login with valid credentials           | Functional - Positive |
