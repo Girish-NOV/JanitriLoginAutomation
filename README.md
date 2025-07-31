@@ -1,24 +1,39 @@
-# Janitri Dashboard Login Automation
+# ✅ Task 2: Janitri Dashboard Login Automation (QA Internship)
 
-This project contains automated UI test cases for the Janitri Dashboard login page using Java, Selenium WebDriver, TestNG, and Page Object Model (POM).
-
-## 🧪 Test Scenarios Covered:
-- Login with valid credentials
-- Login with invalid credentials
-- Login button disabled when fields are empty
-- Password visibility toggle test
-
-## 🔧 Tech Stack:
-- Java
-- Selenium WebDriver
-- TestNG
-- Maven
-- Page Object Model
-
-## 🔗 Live URL:
-[https://dev-dash.janitri.in/](https://dev-dash.janitri.in/)
+This project automates the login page UI testing of the **Janitri Dashboard** using Java, Selenium WebDriver, Maven, TestNG, and the Page Object Model (POM) design pattern.
 
 ---
 
-👤 Submitted by: Vadamala Girish  
-📧 girishbhanu8@gmail.com
+## 🔗 Test Page URL
+
+[https://dev-dash.janitri.in](https://dev-dash.janitri.in)
+
+---
+
+## 🧪 Tech Stack
+
+- Java  
+- Selenium WebDriver  
+- TestNG  
+- Maven  
+- Page Object Model (POM)  
+- VS Code
+
+---
+
+## 📁 Project Structure
+
+src/
+├── main/
+│ └── java/
+│ └── com/janitri/pages/
+│ └── LoginPage.java
+├── test/
+│ └── java/
+│ └── com/janitri/tests/
+│ ├── BaseTest.java
+│ └── LoginTest.java
+
+Vadamala Girish
+QA Intern Candidate
+Email:girishbhanu8@gmail.com
